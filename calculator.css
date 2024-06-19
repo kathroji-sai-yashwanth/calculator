@@ -1,0 +1,30 @@
+#header{
+    text-align: center;
+}
+.button{
+    margin-top: 30px;
+    background-color: rgb(217, 255, 113);
+    cursor: pointer;
+    padding: 10px 10px 10px 10px;
+    margin-left: 10px;
+}
+#container{
+    display: block;
+    width: 200px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+}
+#seven{
+    margin-left: 12px;
+    margin-right: 1px;
+}
+#four{
+    margin-left: 12px;
+    margin-right: 1px;
+}
+#texting{
+    margin-top: 10px;
+    margin-left: 15px;
+}
